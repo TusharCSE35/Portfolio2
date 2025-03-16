@@ -3,6 +3,19 @@
 	height: 100vh !important;
 }
 
+#home .home-heading {
+	font-family: Corinthia;
+	font-size: var(--fs-900);
+	color: var(--clr-accent-600);
+}
+  
+#home .home-heading .home-info {
+	font-family: Continent;
+	font-size: var(--fs-400);
+	display: block;
+}
+  
+
 #home .inner-row {
 	height: 35vh;
 }
